@@ -1,7 +1,7 @@
 tcp_interceptor
 ===============
 
-PHP script that acts as a reverse TCP/IP proxy for intercepting TCP connections.
+PHP script and C command-line application that act as reverse TCP/IP proxies for intercepting TCP connections.
 
 Usage examples: 
 
